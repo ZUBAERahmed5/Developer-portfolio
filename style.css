@@ -57,3 +57,24 @@ h1{
     background-position: 5%;
     background-color: green;
 }
+.Read-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(0, 247, 255), rgb(145, 255, 71));
+    padding: 20px 50px;
+    color: white;
+    font-weight: 700;
+    border-radius: 20px;
+    scroll-padding-top: 40%;
+    padding-left: 20%;
+}
+.read-width{
+    width: 40%;
+    padding-left: 10%;
+}
+.read-width img{
+    width: 100%;
+    padding-top: 10%;
+}
+h1{
+    font-size: 30px;
+}
