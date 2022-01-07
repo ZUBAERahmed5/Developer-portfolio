@@ -78,3 +78,21 @@ h1{
 h1{
     font-size: 30px;
 }
+.Home-button{
+    background-color: rgb(6, 6, 80);
+    text-decoration: none;
+    background-image: linear-gradient(rgb(0, 247, 255), rgb(145, 255, 71));
+    padding: 20px 50px;
+    color: white;
+    font-weight: 700;
+    border-radius: 20px;
+}
+.made-width{
+    background-color: rgb(80, 133, 134);
+    width: 40%;
+    padding-left: 10%;
+}
+.made-width img{
+    width: 100%;
+    padding-top: 10%;
+}
